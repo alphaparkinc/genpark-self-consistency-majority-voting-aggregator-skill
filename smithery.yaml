@@ -1,0 +1,6 @@
+name: genpark-self-consistency-majority-voting-aggregator-skill
+version: 1.0.0
+description: Self-Consistency majority voting aggregator computing consensus answers, confidence scores, and Shannon entropy
+command: python
+args:
+  - mcp_server.py
