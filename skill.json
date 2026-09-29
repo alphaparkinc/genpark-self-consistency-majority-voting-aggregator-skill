@@ -1,0 +1,20 @@
+{
+  "name": "genpark-self-consistency-majority-voting-aggregator-skill",
+  "version": "1.0.0",
+  "description": "Self-Consistency majority voting aggregator computing consensus answers, confidence scores, and Shannon entropy",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "self-consistency",
+    "majority-voting",
+    "consensus",
+    "confidence-score",
+    "entropy",
+    "python-standard-library",
+    "agent-skills",
+    "reasoning-path",
+    "aggregation",
+    "developer-tools"
+  ]
+}
